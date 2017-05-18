@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="B:\Android\Match\objectmatch\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="B:\Android\Match\objectmatch\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_66b1c704219c835c825e1704802484c2f4b84089.jar" />
+    </item>
+    <item
+        jar="B:\Android\Match\objectmatch\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="B:\Android\Match\objectmatch\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_478c11246aad4d41dbb85d4c4a986116aec22f34.jar" />
+    </item>
+    <item
+        jar="W:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="B:\Android\Match\objectmatch\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_2f04ee7ab44dc86ec2e270eb5e6b3796694bd830.jar" />
+    </item>
+    <item
+        jar="B:\Android\Match\objectmatch\build\intermediates\exploded-aar\Match\openCVLibrary2410\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d04d48d903b6bb79de4bf701346ca8d68e45881f">
+        <dex dex="B:\Android\Match\objectmatch\build\intermediates\pre-dexed\debug\Match-openCVLibrary2410-unspecified_37ac8a64d11943dd5291e95067a4652b3ecfc5e8.jar" />
+    </item>
+
+</items>
